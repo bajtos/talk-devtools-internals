@@ -1,0 +1,14 @@
+{
+  "name": "DevFest Demo Extension",
+  "version": "0.1",
+  "description": "This extension demonstrates how to write your own DevTools extension and execute custom inspections",
+  "icons": { "128": "devfest-arrow.png" },
+
+  "devtools_page": "devfest.html",
+  "manifest_version": 2,
+   "content_security_policy": "default-src 'self'  chrome-extension-resource: ; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-eval';  connect-src *; frame-src *;",
+    "web_accessible_resources":
+    [
+      "*"
+    ]
+}

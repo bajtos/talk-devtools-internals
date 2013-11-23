@@ -1,0 +1,4 @@
+.DS_Store
+/02-canary-debug/devtools/
+blink-chromeServerProfile/
+node_modules
