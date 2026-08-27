@@ -17,7 +17,7 @@ Source files for my talk on Internal Architecture of Chrome Developer Tools
   ```sh
   $ CHROME_SVN_ROOT=http://src.chromium.org/blink/branches/chromium/
   $ BRANCH={your branch number} # e.g. 1703
-  $ svn checkout $CHROME_SVN_ROOOT/$BRANCH/Source/devtools
+  $ svn checkout $CHROME_SVN_ROOT/$BRANCH/Source/devtools
   ```
 
  1. Continue along the original instructions:
