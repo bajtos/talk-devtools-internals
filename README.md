@@ -1,5 +1,3 @@
-
-
 # Talk: Internal architecture of Google Chrome Developer Tools
 
 Source files for my talk on Internal Architecture of Chrome Developer Tools
